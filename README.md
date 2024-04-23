@@ -1,4 +1,5 @@
-<h1>Hi, I'm Bun Tongheng</h1>
+<h1>Hi, I'm Bun Tongheng 👋🏻</h1>
+<h3>A Graphic Design, UX/UI and frontend developer and from Cambodia 🇰🇭</h3>
 
 - 🌱 I’m currently learning **ReactJs and NextJs**
 
@@ -6,19 +7,25 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btongheng&show_icons=true&locale=en&layout=compact" alt="btongheng" /></p>
 
-<h3>Languages and Tools:</h3>
-<p>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+<h2>Languages</h2>
 
-<h3>Connect with me:</h3>
-<p>
-<a href="https://instagram.com/bun_tongheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bun_tongheng" height="30" width="40" /></a>
-<a href="https://www.behance.net/btongheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="btongheng" height="30" width="40" /></a>
-</p>
+![Static Badge](https://img.shields.io/badge/Html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Css-%231572B6?style=for-the-badge&logo=css3&logoColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/React%20JS-%2361DAFB?style=for-the-badge&logo=React&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Next%20JS-%23000000?style=for-the-badge&logo=Next.js&logoColor=%23fff)
+
+<h2>Software</h2>
+
+![Static Badge](https://img.shields.io/badge/Visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Photoshop-%231769FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/After%20Effects-%239999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Illutrator-%23FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=%23fff)
+
+<h2>Connect with me:</h2>
+
+![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Behance-%231769FF?style=for-the-badge)
 
