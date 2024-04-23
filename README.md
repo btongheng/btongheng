@@ -26,6 +26,6 @@
 
 <h2>Connect with me:</h2>
 
-![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Behance-%231769FF?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=%23fff)
 
