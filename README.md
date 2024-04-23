@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bun Tongheng</h1>
+<h1>Hi, I'm Bun Tongheng</h1>
 
 - 🌱 I’m currently learning **ReactJs and NextJs**
 
