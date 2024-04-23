@@ -19,7 +19,7 @@
 <h2>Software</h2>
 
 [![Static Badge](https://img.shields.io/badge/Visual%20studio%20code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=%23fff)](https://code.visualstudio.com/)
-[![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23fff)](https://www.w3schools.com/html/default.asp)
+[![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23fff)](https://www.figma.com/)
 [![Static Badge](https://img.shields.io/badge/Photoshop-%231769FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=%23fff)](https://www.adobe.com/products/catalog.html)
 [![Static Badge](https://img.shields.io/badge/After%20Effects-%239999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=%23fff)](https://www.adobe.com/products/catalog.html)
 [![Static Badge](https://img.shields.io/badge/Illutrator-%23FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=%23fff)](https://www.adobe.com/products/catalog.html)
