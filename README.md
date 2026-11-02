@@ -1,58 +1,52 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Bun%20Tongheng%20👋🏻&fontSize=35&fontColor=fff&animation=fadeIn&fontY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,8,12&height=120&section=header&text=Bun%20Tongheng&fontSize=40&fontColor=fff&animation=fadeIn&fontY=55" />
 </div>
 
-<h3 align="center">🎨 Graphic Designer & UX/UI Designer | 💻 Frontend Developer</h3>
-<p align="center">A passionate creator crafting intuitive digital experiences from Cambodia 🇰🇭</p>
+<div align="center">
+  <h3>✨ Bridging the Gap Between Design & Code ✨</h3>
+  <p>Graphic Designer | UX/UI Enthusiast | Frontend Developer based in Cambodia 🇰🇭</p>
+</div>
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently diving deep into **React.js and Next.js** to build dynamic web applications.
-- 👨‍💻 My personal website is currently under construction, but you can preview it here: [btongheng.vercel.app](https://btongheng.vercel.app/)[cite: 1]
-- 🎯 Always looking for creative ways to bridge the gap between design and code.
+### 💡 About Me
+- 🔭 I’m currently architecting projects and building intuitive digital experiences.
+- 🌱 Leveling up my expertise in **React.js** and **Next.js** to build scalable web apps.
+- 🎨 Passionate about merging aesthetic visual design with clean, performant code.
+- ⚡ Fun fact: My personal portfolio is currently under construction, but you can check it out here: [btongheng.vercel.app](https://btongheng.vercel.app/)[cite: 1]
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Toolkit
 
-#### **Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-#### **Design & Development Tools**
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/After%20Effects-%239999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
-</p>
+| Category | Technologies / Software |
+| :--- | :--- |
+| **Frontend & Web** | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white) |
+| **Design & Creative** | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-%239999FF?style=flat-square&logo=adobe-after-effects&logoColor=white) |
+| **Environment** | ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btongheng&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=btongheng&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=btongheng&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-### 🌐 Connect with Me
-<p>
+### 🌐 Let's Connect
+
+<div align="center">
   <a href="https://btongheng.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=about.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
   <a href="https://www.behance.net/btongheng" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,8,12&height=40&section=footer" />
+</div>
