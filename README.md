@@ -1,20 +1,16 @@
 <div align="center">
-
-  <h3>✨ Bridging the Gap Between Design & Code ✨\</h3>
-
-  <p>Graphic Designer | UX/UI Enthusiast | Frontend Developer based in Cambodia 🇰🇭\</p>
-
+  <h3>✨ Bridging the Gap Between Design & Code ✨</h3>
+  <p>Graphic Designer | UX/UI Enthusiast | Frontend Developer based in Cambodia 🇰🇭</p>
 </div>
 
 ---
 
 ### 💡 About Me
 
-- 🔭 I’m currently architecting projects and building intuitive digital experiences.
+- 🔭 I’m currently projects and building intuitive digital experiences.
 - 🌱 Leveling up my expertise in **Next.js** and **Typescript** to build scalable web apps.
 - 🎨 Passionate about merging aesthetic visual design with clean, performant code.
 - ⚡ Fun fact: My personal portfolio is currently under construction, but you can check it out here: [My website](https://btongheng.vercel.app/)
-  </a>
 
 ---
 
@@ -31,14 +27,11 @@
 ### 🌐 Let's Connect
 
 <div align="center">
-
-  <a href="[btongheng.vercel.app](https://btongheng.vercel.app/)" target="\_blank">
-    <img src="[img.shields.io/badge/Portfolio-000000](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)" />
+  <a href="https://btongheng.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
-
-  <a href="[behance.net/btongheng](https://www.behance.net/btongheng)" target="\_blank">
-    <img src="[img.shields.io/badge/Behance-1769FF](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)" />
+  <a href="https://www.behance.net/btongheng" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-
 </div>
 
